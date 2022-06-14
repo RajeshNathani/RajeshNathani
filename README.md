@@ -1,6 +1,7 @@
 ### Hi , I am Rajesh 👋
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://https://www.canva.com/design/DAFDlAH3seE/G2khl_IeDsdPTlLkOXR9Lw/view?utm_content=DAFDlAH3seE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink/)
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://github.com/RajeshNathani/RajeshNathani/blob/main/FUll%20stack%20Developer.png)
+
 
 ![](https://komarev.com/ghpvc/?username=RajeshNathani) <br> <br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RajeshNathani&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) <br>
